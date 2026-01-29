@@ -1,12 +1,12 @@
-# Password Strength Checker 🔐
+# Password Strength Checker 
 
 This project is a **Python-based password strength checker** that securely evaluates a user’s password and provides feedback on its strength along with suggestions for improvement.
 
-## 📄 File Information
+##  File Information
 - **Code File:** `task3.py`
 - **Language:** Python
 
-## 🚀 Features
+##  Features
 - Secure password input using `getpass`
 - Checks password length
 - Validates presence of:
@@ -23,10 +23,10 @@ This project is a **Python-based password strength checker** that securely evalu
   - Strong
 - Provides suggestions to improve password security
 
-## 🛠️ Requirements
+##  Requirements
 - Python 3.x  
 - No external libraries required (uses built-in `re` and `getpass` modules)
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 python task3.py
